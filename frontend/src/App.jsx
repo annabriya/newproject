@@ -7,8 +7,7 @@ import {
 } from 'lucide-react'
 import './App.css'
 
-const API = 'http://localhost:5000/api/applications'
-
+const API ="https://newproject-pzj3.onrender.com/api/applications";
 const STATUSES = ['Applied', 'Interview', 'Offer', 'Rejected', 'Accepted', 'Declined']
 const FINAL = ['Rejected', 'Accepted', 'Declined']
 
